@@ -41,6 +41,10 @@
 		{
 			"Name": "ChaosMover",
 			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
